@@ -1,4 +1,4 @@
-const dados = require("./dados/dados.json");
+const dados = require("./dados.json");
 let maior = Number(dados[0].valor);
 let menor = Number(dados[0].valor);
 let soma = 0
